@@ -1,5 +1,7 @@
 # First-Person-Farm-Experience-Unity-Game
 This is a project designed for my MSTU5199 Unity Development class. 
+Play the game online at: https://play.unity.com/mg/other/webgl-builds-41578
+Link to the demo video: https://drive.google.com/file/d/1Zd1qvhIkClo2hKSudLQELul8Jf83w7wD/view?usp=sharing
 
 ## Learning Goals
 
@@ -36,6 +38,7 @@ Rake for softening the soil
 ## Future Improvements
 
 #### Collider: Might be a problem with my Unity version?
+Sometimes when you drop the bucket or the rake, it sinks to the ground. Only happens sometimes.
 
 #### Correct Order of Steps: 
 1. Rake the soil
@@ -44,4 +47,4 @@ Rake for softening the soil
 
 #### Playable, but not working great: More styling to make the game look better
 
-Link to the demo video: https://drive.google.com/file/d/1Zd1qvhIkClo2hKSudLQELul8Jf83w7wD/view?usp=sharing 
+ 
