@@ -18,14 +18,14 @@ Bucket & well for getting water
 Rake for softening the soil
 
 #### HPs (Health Points)
-Player HP
-Chicken HP
-Plant HP
+- Player HP
+- Chicken HP
+- Plant HP
 
 #### Interfaces
-HPs board
-Tools board
-Instruction
+- HPs board
+- Tools board
+- Instruction
 
 ## Challenges
 
