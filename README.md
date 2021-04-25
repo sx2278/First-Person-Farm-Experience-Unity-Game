@@ -2,6 +2,7 @@
 This is a project designed for my MSTU5199 Unity Development class. 
 
 Play the game online at: https://play.unity.com/mg/other/webgl-builds-41578
+If the unity link doesn't work, please try the built game page from github: https://sx2278.github.io/First-Person-Farm-Experience-Unity-Game/ 
 
 Link to the demo video: https://drive.google.com/file/d/1Zd1qvhIkClo2hKSudLQELul8Jf83w7wD/view?usp=sharing
 
